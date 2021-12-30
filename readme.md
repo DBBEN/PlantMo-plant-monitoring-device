@@ -19,7 +19,7 @@
 ![](images/schematic%20diagram-1.png)
 
 ## Software 
-
+![](images/diagram.jpg)
 ```
 
 ```
