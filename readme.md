@@ -20,6 +20,8 @@
 
 ## Software 
 ![](images/diagram.jpg)
-```
 
-```
+## Enclosure 
+The device enclosure was designed in TinkerCad which the original design files can be accessed [here](https://www.tinkercad.com/things/fBq9YvFC2UN).
+
+![](images/4%20-%20Enclosure%20Image.png)
